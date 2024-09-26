@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879224772691",
+    "project_id": "promoteindia-af47b",
+    "storage_bucket": "promoteindia-af47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879224772691:android:35e7c2694379b66659cea6",
+        "android_client_info": {
+          "package_name": "com.promate_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879224772691-ueh1v2r5nue62cdivaf1d8ktj3eqi5oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKHnJxFMBqXCAcmUZi4wMF3th8VUlILM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879224772691-ueh1v2r5nue62cdivaf1d8ktj3eqi5oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
